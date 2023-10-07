@@ -42,5 +42,5 @@ The IMDB  application is a space for movie enthusiasts worldwide to effortlessly
 <div align="center">
   <h1>Favourite-Movies-Page</h1>
 </div>
-
+![Movie details page](https://github.com/GaneshGoud23/IMDB-Clone.github.io/assets/140697430/f5ac4aa4-e730-450e-8dfe-0990cfebe0f6)
 
