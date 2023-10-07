@@ -1,4 +1,4 @@
-# IMDB-Clone.github.io
+
 # IMDB-CLONE
 
 The IMDB  application is a space for movie enthusiasts worldwide to effortlessly explore films, ratings, and reviews.
