@@ -2,12 +2,12 @@
 # IMDB-CLONE
 
 The IMDB  application is a space for movie enthusiasts worldwide to effortlessly explore films, ratings, and reviews.
-
-## TechStack
-
-- **HTML**
-- **CSS**
-- **JavaScript**
+#### Technologies Used
+HTML: Provides the basic structure of the webpage.  
+CSS: Styles the stopwatch and makes it visually appealing.  
+JavaScript: Implements the stopwatch functionality and time tracking.  
+## Demo
+You can find a live demo of the stopwatch [here](https://ganeshgoud23.github.io/IMDB-Clone.github.io/)
 
 ## Features
 
